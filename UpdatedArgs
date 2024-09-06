@@ -8,9 +8,6 @@ return {
         5602055394, -- // Hood Modded
         7951883376, -- // Hood Modded VC
     },
-    ["MousePosUpdate"] = {
-         9825515356 -- // Hood Customs
-    },
     ["MOUSE"] = {
         17403265390, -- // Da Downhill
         15186202290, -- // Da Strike
@@ -37,12 +34,6 @@ return {
 	17344804827, -- // Yeno Hood
 	15644861772, -- // Flame Hood
 	18710690149  --// Del Hood
-        14277620939 -- // Custom FFA
-        17061444544 -- // Rae Hood
-        17344804827 -- // Yeno Hood
-        17380542873 -- // Da Nuke
-
-       
     },
     ["MoonUpdateMousePos"] = {
         15166543806, -- // Moon Hood
